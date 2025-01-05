@@ -1,5 +1,8 @@
 # Truth Navigation: Empowering Equity-Seeking Groups through Digital Research Infrastructure with Automated Fake News Detection Case Study
 
+# [![DOI](https://zenodo.org/badge/911868731.svg)](https://doi.org/10.5281/zenodo.14602334)
+
+
 ## Vision Statement
 To democratize access to Digital Research Infrastructure (DRI) by empowering equity-seeking groups with the knowledge and tools needed to leverage advanced digital resources for their research and development.
 
