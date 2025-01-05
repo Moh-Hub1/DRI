@@ -1,10 +1,10 @@
 # Truth Navigation: Empowering Equity-Seeking Groups through Digital Research Infrastructure with Automated Fake News Detection Case Study
 
 ## Vision Statement
-"To democratize access to Digital Research Infrastructure (DRI) by empowering equity-seeking groups with the knowledge and tools needed to leverage advanced digital resources for their research and development."
+To democratize access to Digital Research Infrastructure (DRI) by empowering equity-seeking groups with the knowledge and tools needed to leverage advanced digital resources for their research and development.
 
 ## Mission Statement
-"Our mission is to promote the use of Digital Research Infrastructure (DRI) among equity-seeking groups by providing comprehensive training, resources, and support. We aim to foster an inclusive research environment where all individuals have the opportunity to engage with cutting-edge digital tools and technologies."
+Our mission is to promote the use of Digital Research Infrastructure (DRI) among equity-seeking groups by providing comprehensive training, resources, and support. We aim to foster an inclusive research environment where all individuals have the opportunity to engage with cutting-edge digital tools and technologies.
 
 ## Project Overview
 This project aims to empower equity-seeking groups by providing them with the tools and knowledge to detect and combat fake news on social media. By leveraging advanced Digital Research Infrastructure (DRI), we aim to create a robust framework for identifying and mitigating the spread of misinformation.
