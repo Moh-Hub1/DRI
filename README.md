@@ -90,13 +90,13 @@ We are committed to providing a welcoming and inclusive environment for everyone
 ## How to Contribute
 We welcome contributions from everyone. Please see our Contributing Guidelines for more information on how to get involved.
 
-**************** ************** ************** ************* ************* *************** *************** ************** *************
-## Our Parctical Repo:
-For more practical cases, codes, descussions of results, please follow our practical repo:
-https://github.com/Moh-Hub1/TransferLearningFND 
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 For any questions or further information, please contact the project lead, Mohammad Alnabhan, at malna035@uottawa.ca
+
+**************** ************** ************** ************* ************* *************** *************** ************** *************
+## Our Parctical Repo:
+For more practical cases, codes, descussions of results, please follow our practical repo:
+https://github.com/Moh-Hub1/TransferLearningFND 
